@@ -52,3 +52,7 @@
 10. **Modbus Protocol**
     - **Project**: Industrial Automation with Modbus
       - **Explanation**: Develop an industrial automation system where the ESP32 communicates with various industrial equipment (e.g., PLCs, sensors, actuators) using the Modbus protocol. Implement control and monitoring functions via a central dashboard.
+
+|---
+| [more](https://xilirprojects.com/latest-mechanical-engineering-projects-shop-in-new-delhi-ncr-india/) |
+|---
