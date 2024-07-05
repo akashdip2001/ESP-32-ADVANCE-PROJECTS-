@@ -1,5 +1,9 @@
 # ESP-32-ADVANCE-PROJECTS
 
+<p float="left">
+  <img src="esp.jpg" width="100%" />
+</p>
+
 1. **OTA (Over-the-Air) Updates**: Learn how to update your ESP32 firmware wirelessly.
 2. **Deep Sleep and Low Power Modes**: Explore how to use the ESP32 in power-saving modes for battery-powered projects.
 3. **SPI and I2C Communication**: Understand how to interface with various sensors and peripherals using SPI and I2C protocols.
